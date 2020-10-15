@@ -1,5 +1,5 @@
 # calculator-app
-simple calculator to perform basic mathematical operations.
+simple calculator to perform basic mathematical operations.Logic implemented during building of this calculator is unique.
 
 # How to contribute
 If you want to contribute, you have to do the following steps:
